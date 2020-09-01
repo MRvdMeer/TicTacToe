@@ -1,3 +1,9 @@
+"""
+THIS IS STILL A WORK IN PROGRESS AND IS CURRENTLY NOT WORKING. TO RUN TICTACTOE JUST RUN THE play.py FILE.
+"""
+
+
+
 import tkinter as tk
 
 
