@@ -5,6 +5,7 @@ import tictactoe_agents as ta
 def select_agent(input_player):
     """Gathers input to select agent type"""
     helper = [str(num) for num in range(0, 10)]
+    player_agent = None
 
     incorrect_choice = True
     while incorrect_choice:
